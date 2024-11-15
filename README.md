@@ -4,7 +4,7 @@ This is my second project for the data science bootcamp. The goal of the analysi
 
 Data Description:
 
-The data used in the analysis comes from Kaggle (https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors). The dataset was in CSV format and contains 35 columns.
+The data used in the analysis come from Kaggle (https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors). The dataset was in CSV format and contains 35 columns.
 
 Exploratory Data Analysis (EDA) was conducted including data understanding, data preparation, and data analysis (visualizations, descriptive statistics, attrition rate and mean comparison, correlations).
 
